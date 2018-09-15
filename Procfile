@@ -1,1 +1,1 @@
-worker: node Kiiiing-7LM..js
+worker: node kinngg7lm.js
